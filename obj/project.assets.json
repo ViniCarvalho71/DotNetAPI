@@ -2402,11 +2402,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\DotNetAPI\\DotNetAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\DotNetAPI-1\\DotNetAPI.csproj",
       "projectName": "DotNetAPI",
-      "projectPath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\DotNetAPI\\DotNetAPI.csproj",
+      "projectPath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\DotNetAPI-1\\DotNetAPI.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\DotNetAPI\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius\\OneDrive\\Área de Trabalho\\DotNetAPI-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
